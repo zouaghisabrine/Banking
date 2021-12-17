@@ -157,7 +157,7 @@ To run this project, please follow those steps
 
 1. Clone the project.
 ```text
-   git clone https://github.com/sabrinezouaghui/Banking.git
+   git clone https://github.com/zouaghisabrine/Banking.git
    
 ```
 or download the project
@@ -217,7 +217,7 @@ When the server is running you can access the API Swagger at this URL:
 
 ### Swagger
 
-![img_1.png](readmi_images/img_5.png)
+![img_1.png](readmi_images/img_2.png)
 
 3 **/account/statement** : With this API, you can retrieve Account Statement
 
@@ -230,9 +230,8 @@ When the server is running you can access the API Swagger at this URL:
 - If the given **endDate** before **startDate**, otherwise an exception will be thrown.
 
 ### Swagger
-![img_3.png](readmi_images/img_3.png)
 
-
+![img_1.png](readmi_images/img_5.png)
 ## BDD Documentation
 
 When you run BDD test, Report will be generated 
